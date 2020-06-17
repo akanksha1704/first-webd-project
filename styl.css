@@ -189,7 +189,7 @@ margin:auto;
 
 #contact-box input{
     display:flex;
-    padding:3px px;
+    padding:3px 3px;
     margin:10px 10px;
 }
 #contact-box textarea{
