@@ -165,7 +165,7 @@ margin:auto;
 #contact::before{
       content:"";
       position:absolute;
-      height:110%;
+      height:100%;
       width:100%;
       z-index:-1;
       opacity:0.7;
@@ -189,8 +189,9 @@ margin:auto;
 
 #contact-box input{
     display:flex;
-    padding:3px 3px;
+    padding:12px 12px;
     margin:10px 10px;
+    
 }
 #contact-box textarea{
     width:100%;
