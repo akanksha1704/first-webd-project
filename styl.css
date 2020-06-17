@@ -187,7 +187,11 @@ margin:auto;
     font-family: 'Patua One', cursive;
 }
 
-
+#contact-box input{
+    display:flex;
+    padding:3px px;
+    margin:10px 10px;
+}
 #contact-box textarea{
     width:100%;
     padding:0.5rem;
